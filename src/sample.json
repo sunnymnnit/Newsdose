@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 128,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. Senate panel to debate app store reform bill - Reuters",
+            "description": "A U.S. Senate panel is set on Thursday to debate a bill that aims to rein in app stores of companies that some lawmakers say exert too much market control, including Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> and…",
+            "url": "https://www.reuters.com/world/us/us-senate-panel-debate-app-store-reform-bill-2022-01-18/",
+            "urlToImage": "https://www.reuters.com/resizer/Bhuzz6I2HhyMUK6Zp6-ga-wpRSU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AMEH5LXK6NKG3CHSCMJDHD6UMQ.jpg",
+            "publishedAt": "2022-01-18T02:56:00Z",
+            "content": "WASHINGTON, Jan 17 (Reuters) - A U.S. Senate panel is set on Thursday to debate a bill that aims to rein in app stores of companies that some lawmakers say exert too much market control, including Ap… [+1583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Matthew Carlson",
+            "title": "Parsing PNGs Differently",
+            "description": "There are millions of tiny bugs all around us, in everything from our desktop applications to the appliances in the kitchen. Hidden, arbitrary conditions that cause unintended outputs and behaviors. …read more",
+            "url": "https://hackaday.com/2022/01/17/parsing-pngs-differently/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2022/01/png_parallel.png",
+            "publishedAt": "2022-01-18T03:00:10Z",
+            "content": "There are millions of tiny bugs all around us, in everything from our desktop applications to the appliances in the kitchen. Hidden, arbitrary conditions that cause unintended outputs and behaviors. … [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "‘Pareto Security’ is an app that helps you check your Mac’s security settings",
+            "description": "Apple provides multiple security features to ensure that macOS users keep their Macs safe, but sometimes users have no idea how to check if all these security tools are enabled. With this in mind, software company Niteo has created “Pareto Security,” which is…",
+            "url": "https://9to5mac.com/2022/01/17/pareto-security-is-an-app-that-helps-you-check-your-macs-security-settings/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Pareto-Security.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-01-18T01:05:05Z",
+            "content": "Apple provides multiple security features to ensure that macOS users keep their Macs safe, but sometimes users have no idea how to check if all these security tools are enabled. With this in mind, so… [+1688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yanko Design"
+            },
+            "author": "Neha Mistry",
+            "title": "This device turns air into pure drinking water, providing 10 liters of fresh mineral water each day",
+            "description": "This device turns air into pure drinking water, providing 10 liters of fresh mineral water each dayWhat’s funny about the idea of progress is that it’s much more layered than we think. Sure, 30 years from now, we will have sent...",
+            "url": "https://www.yankodesign.com/2022/01/17/this-device-turns-air-into-pure-drinking-water-providing-10-liters-of-fresh-mineral-water-each-day-2/",
+            "urlToImage": "https://www.yankodesign.com/images/design_news/2021/12/make_pure_water_from_the_air_layout.jpg",
+            "publishedAt": "2022-01-18T02:45:13Z",
+            "content": "What’s funny about the idea of progress is that it’s much more layered than we think. Sure, 30 years from now, we will have sent humans to Mars… but 30 years from now most cities will even be dealing… [+4398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Mahmoud Itani",
+            "title": "XDA Basics: How to uninstall an app on your iPhone",
+            "description": "You may want to uninstall an app on your iPhone for several reasons. For starters, deleting apps can free some memory if you’re running low on storage and don’t want to buy a new iPhone. In other instances, you’re just no longer using an app and want to get r…",
+            "url": "https://www.xda-developers.com/how-to-uninstall-app-iphone/",
+            "urlToImage": "https://www.xda-developers.com/files/2021/11/iPhone-Home-Screen-with-the-App-Store-in-focus-1.jpg",
+            "publishedAt": "2022-01-18T02:00:18Z",
+            "content": "You may want to uninstall an app on your iPhone for several reasons. For starters, deleting apps can free some memory if you’re running low on storage and don’t want to buy a new iPhone. In other ins… [+2053 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Joe Wituschek",
+            "title": "New App Store submission experience launching later this month",
+            "description": "What you need to know\n\n\nApple is rolling out a new submission experience to App Store Connect.\nAll developers will be upgraded to the new submission experience on January 25, 2022.\nDevelopers can also choose to manually upgrade to the new experience before th…",
+            "url": "https://www.imore.com/new-app-store-submission-experience-launching-later-month",
+            "urlToImage": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2020/06/apple-developer-mac-hero.jpg",
+            "publishedAt": "2022-01-18T00:55:35Z",
+            "content": "The submission experience for apps through App Store Connect is getting an upgrade this month.\r\nIn a news update on the Apple Developer website, the company has announced that a new submission experi… [+993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Paris-based Spendesk, which offers spend management software to SMBs, raises $114M at a $1.5B valuation, after raising the same amount in July 2021 (Benoit Berthelot/Bloomberg)",
+            "description": "Benoit Berthelot / Bloomberg:\nParis-based Spendesk, which offers spend management software to SMBs, raises $114M at a $1.5B valuation, after raising the same amount in July 2021  —  Financial technology company Spendesk said it's raised another 100 million eu…",
+            "url": "https://www.techmeme.com/220117/p17",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivnyZ_t22eBU/v0/1200x800.jpg",
+            "publishedAt": "2022-01-18T01:40:13Z",
+            "content": "Big Technology— by Alex Kantrowitz\r\nRevealing the systems in the tech world that drive what we see in the headlines, focusing primarily on the tech giants: Amazon, Apple, Facebook, Google, and Micros… [+3 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "Autonomous driving startup Wayve, which relies on machine learning to teach a car how to drive instead of hardware like lidar sensors, raises a $200M Series B (Sam Shead/CNBC)",
+            "description": "Sam Shead / CNBC:\nAutonomous driving startup Wayve, which relies on machine learning to teach a car how to drive instead of hardware like lidar sensors, raises a $200M Series B  —  - Wayve did not disclose the new valuation but it's likely to be in excess of …",
+            "url": "https://www.techmeme.com/220117/p18",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?v=1642416822",
+            "publishedAt": "2022-01-18T02:00:30Z",
+            "content": "Big Technology— by Alex Kantrowitz\r\nRevealing the systems in the tech world that drive what we see in the headlines, focusing primarily on the tech giants: Amazon, Apple, Facebook, Google, and Micros… [+3 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "How Netflix succeeded in South Korea, including by developing ideas considered too risky for broadcasters and licensing local content overseas (Bloomberg)",
+            "description": "Bloomberg:\nHow Netflix succeeded in South Korea, including by developing ideas considered too risky for broadcasters and licensing local content overseas  —  It took “Squid Game” just four weeks this past fall to become the most-watched Netflix Inc. show ever…",
+            "url": "https://www.techmeme.com/220117/p19",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV_ORS38qanI/v1/1200x801.jpg",
+            "publishedAt": "2022-01-18T02:25:09Z",
+            "content": "Big Technology— by Alex Kantrowitz\r\nRevealing the systems in the tech world that drive what we see in the headlines, focusing primarily on the tech giants: Amazon, Apple, Facebook, Google, and Micros… [+3 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Engadget Japanese",
+            "title": "iOS・iPadOSとmacOS用の最新版Safari 15に深刻なバグ、Googleアカウント情報やブラウズ履歴が漏えいの恐れ",
+            "description": "iOS/iPadOSとmacOS用の最新版Safari 15にバグがあり、Googleアカウント情報や最近のブラウジング履歴が流出する恐れがあると報じられています。\r\n\r\nWebブラウザ向けの指紋認証サービスを提供するFingerprintJSは、ブログ記事にてSafari 15にはIndexedDB実装にバグがあり、特定のWebサイトが自分のドメインのみならず、あらゆるドメインのデータベース名を見られると指摘しています。このデータベース名は、ルックアップテーブルから識別情報を抽出するために使用できると述べられて…",
+            "url": "https://jp.techcrunch.com/2022/01/18/safari-bug-leak-google-account-info/",
+            "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2022/01/2022-01-18-001-index.jpg?w=1024",
+            "publishedAt": "2022-01-18T00:44:57Z",
+            "content": "9to5Mac\r\niOS/iPadOSmacOSSafari 15Google\r\nWebFingerprintJSSafari 15IndexedDBWeb\r\nGoogleIndexedDBGoogleIDGoogle IDIDGoogle\r\n IndexedDB \r\nGoogleID\r\nChromeWeb\r\niPhoneiPadMacSafari FingerprintJS1128Apple\r… [+38 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techmeme.com"
+            },
+            "author": null,
+            "title": "India-based agritech startup Arya, which helps farmers in South Asia store and sell their produce and secure credit, raises a $42M Series C and $18M as debt (Manish Singh/TechCrunch)",
+            "description": "Manish Singh / TechCrunch:\nIndia-based agritech startup Arya, which helps farmers in South Asia store and sell their produce and secure credit, raises a $42M Series C and $18M as debt  —  Indian agritech startup Arya, which reaches hundreds of thousands of fa…",
+            "url": "https://www.techmeme.com/220117/p16",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1232278364.jpg?w=600",
+            "publishedAt": "2022-01-18T00:00:44Z",
+            "content": "Big Technology— by Alex Kantrowitz\r\nRevealing the systems in the tech world that drive what we see in the headlines, focusing primarily on the tech giants: Amazon, Apple, Facebook, Google, and Micros… [+3 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Srad.jp"
+            },
+            "author": "nagazou",
+            "title": "毎日新聞に偽装した偽サイトの報道でグリー株が急騰。風説の流布を意図か",
+            "description": "1月17日の午前中に東京株式市場でグリー株が急騰した。原因は毎日新聞を模倣した偽サイト。偽サイトの内容に関しては市況かぶ全力2階建にまとめられたものが詳しいが、米エレクトロニック・アーツがメタバース関連としてグリー株を公開買い付けするというもの内容（市況かぶ全力2階建、ロイター）。 \n\nまとめによると偽サイトはlivedoorブログ上に作成され、記事はこの関連しか存在しなかったようだ。風説の流布を意図したものではないかとみられる。ロイターの記事によると、グリー株は一時、前営業日比5.9％高まで急上昇、年初来高値を…",
+            "url": "https://srad.jp/story/22/01/17/1540231/",
+            "urlToImage": "https://srad.jp/static/topics/news_64.png",
+            "publishedAt": "2022-01-18T03:00:00Z",
+            "content": "Stay hungry, Stay foolish. -- Steven Paul Jobs"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "Apple Silicon过渡将于今年四季度完成 Mac Pro压轴",
+            "description": "报道称即将到来的 Mac Pro 不仅在外观设计上有所改变，而且在芯片上将从英特尔过渡到 Apple Silicon。小道消息称，Mac Pro 所搭载的自研芯片是现有 M1 Max 芯片的延伸，而非基于 M2 芯片。鉴于其尺寸，Mac Pro 可以很容易地容纳几个芯片模具，并有效地冷却它们。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1227005.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0118/a7fe04b88e440e8.png",
+            "publishedAt": "2022-01-18T00:11:46Z",
+            "content": "Mac Pro M2 Dylan M1 Max M1 Max Apple Silicon 16 MacBook Pro \r\n·Mark GurmaniMac Pro Mac Pro Apple Silicon 6 Dylan 2022 4 20226 Apple Silicon \r\nMac Pro Mac Pro 32 64 Apple Silicon Gurman Mac Pro 40CPU1… [+4 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "[视频]开发者在特斯拉Model 3上成功运行苹果CarPlay",
+            "description": "特斯拉车主希望获得对苹果 CarPlay 和 Apple Music 的支持，但没有迹象表明特斯拉愿意在其车辆中实施苹果 CarPlay。为此，波兰开发者 Michał Gapiński 决定自己动手解决了这个问题。使用 Rasberry Pi 和汽车浏览器，Gapiński 能够在他的特斯拉显示屏上运行一个功能齐全的苹果 CarPlay 版本，并在 Twitter 上分享了这个结果。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1227019.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0118/19739054a1f392c.webp",
+            "publishedAt": "2022-01-18T00:44:51Z",
+            "content": "LTE Wi-Fi Rasberry Pi Android Rasberry Pi CarPlay Apple Music CarPlay \r\nGapiski Wi-Fi CarPlayApple Music"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnbeta.com"
+            },
+            "author": "study875",
+            "title": "苹果将推14吋M2芯片MacBook Pro 替代现有13吋型号",
+            "description": "消息称在 2022 年年底，苹果将会推出全新的 14 英寸机型，以替代现有的 13 英寸 M1 MacBook Pro，新机型将会采用更强悍的芯片，因此在售价方面会进一步上涨。 阅读全文",
+            "url": "https://www.cnbeta.com/articles/tech/1227009.htm",
+            "urlToImage": "https://static.cnbetacdn.com/article/2022/0118/a7fa51a950b3eb8.webp",
+            "publishedAt": "2022-01-18T00:20:06Z",
+            "content": "DylanDKT 14 MacBook Pro M2 2022 DylanDKT M1 Pro M1 Max 14 \r\n13 MacBook Pro M2 MacBook Air M1 13 MacBook Pro 2020 11 Mac mini MacBook Air Apple Silicon Mac \r\nM1 MaxM1 Pro13MacBook Pro1314MacBook ProI/O"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ifanr.com"
+            },
+            "author": "方嘉文",
+            "title": "早报 | 腾讯公布寒假未成年人限玩政策 / 苹果或已完成 A16 处理器设计 / 团车 CEO 回应李想炮轰",
+            "description": "- 新浪微博网页版上线「无障碍」模式\n- 英国或将跟进挪威，规定社交媒体「修图照片」需注明\n- 机构预测，XR 头显 2025 年出货量将突破 1 亿台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+            "url": "https://www.ifanr.com/1467334",
+            "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2022/01/teenage-boy-using-smartphone-at-home-1218225082-6685f04b3f844262b7a31e92c7646baf.jpeg",
+            "publishedAt": "2022-01-18T01:08:09Z",
+            "content": "2022 \r\n 2022 \r\n14 \r\nA16 4nm N4P \r\n A16 iPhone 14 iPad \r\n 12-15 4nm \r\n1 16 CEO CEO \r\nCEO \r\nCEO 100 2000 5 \r\n 10 -20 2022 \r\n2022 3 17 \r\n 2019 \r\nCybertruck \r\n2022 Tesla Cybertruck 2023 \r\n Cybertruck 202… [+444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Touchlab.jp"
+            },
+            "author": "Nakimo",
+            "title": "¥370→無料：Appleデザイン賞受賞「Bird Alone」ほか［1月18日版］セール・お得情報",
+            "description": "App Storeの値下げ中アプリおよびお得な情報を紹介します。価格は掲載時のもので既に変更されている場合があるので、購入前にご確認ください。 有料アプリの購入や課金をする際は、App Store・Appleのサブスク・ […]\nThe post ¥370→無料：Appleデザイン賞受賞「Bird Alone」ほか［1月18日版］セール・お得情報 first appeared on Touch Lab - タッチ ラボ.©2019 \"Touch Lab - タッチ ラボ\".",
+            "url": "http://touchlab.jp/2022/01/iphone-ipad-app-sale-20220118/",
+            "urlToImage": "http://touchlab.jp/wp-content/uploads/2022/01/app_sale_2022_01_18_0.jpg",
+            "publishedAt": "2022-01-18T02:37:53Z",
+            "content": "App Storeの値下げ中アプリおよびお得な情報を紹介します。価格は掲載時のもので既に変更されている場合があるので、購入前にご確認ください。\n\n有料アプリの購入や課金をする際は、App Store・Appleのサブスク・Apple公式ストアで使える「Apple Gift Card」を楽天で購入すると、ポイントがついてお得です。\nセール中のアプリ\nBird Alone \nゲーム：418.1 MB… [+602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Ro",
+            "title": "2022 iPhone SE to be called SE+ 5G, 2023/2024 model to come with 5.7\" display",
+            "description": "We already know by now that Apple is about to introduce a new iPhone SE this spring and it will likely adopt a somewhat dated design. And according to Display Supply Chain Consultants CEO Ross Young, it will be called iPhone SE+ 5G.\n\n\n\nAs the name implies, it…",
+            "url": "https://www.gsmarena.com/apple_is_planning_to_introduce_an_iphone_se_5g_next_year_2022_model_to_offer_57_screen-news-52722.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/10/iphone-se-3-same-design-se-2/-952x498w6/gsmarena_001.jpg",
+            "publishedAt": "2022-01-18T02:00:31Z",
+            "content": "We already know by now that Apple is about to introduce a new iPhone SE this spring and it will likely adopt a somewhat dated design. And according to Display Supply Chain Consultants CEO Ross Young,… [+347 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Sohee Kim",
+            "title": "Samsung Partners With AMD to Power Up Mobile Chips",
+            "description": "Samsung Electronics Co. introduced its first mobile processor powered by Advanced Micro Devices Inc. graphics as the company tries to better compete with the gaming prowess of archrival Apple Inc.’s iPhones.",
+            "url": "https://www.bloomberg.com/news/articles/2022-01-18/samsung-partners-with-amd-to-power-up-mobile-chips",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDyJvpr6Mhxc/v0/1200x1200.jpg",
+            "publishedAt": "2022-01-18T02:00:00Z",
+            "content": "Samsung Electronics Co. introduced its first mobile processor powered by \r\nAdvanced Micro Devices Inc. graphics as the company tries to better compete with the gaming prowess of archrival \r\nApple Inc… [+1417 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "InfoQ",
+            "title": "一年薪資台幣26億！「打工皇帝」庫克收入比去年增加 571%",
+            "description": "2021 年，蘋果 CEO 提姆‧庫克總薪資為 9873 萬美元（約26億台幣），其中基本工資 300 萬美元，大部分薪資來自於價值 8235 萬美元的股權獎勵和 1200 萬美元的非股權激勵薪資。庫克去年獲得26億年薪  \n近日，根據蘋果公司向美國證券交易委員會提交的股東委託書顯示，2021 年，蘋果 CEO 提姆‧庫克總薪資為 9873 萬美元（約26億台幣），其中基本工資 300 萬美元，大部分薪資來自於價值 8235 萬美元的股權獎勵和 1200 萬美元的非股權激勵薪資。 \n這是庫克自 2011 年 8 …",
+            "url": "https://www.techbang.com/posts/93518-cook-salary-increase",
+            "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/93518/original/5ece8300451a2ca05a4e4390e6af13e5.jpg?1642393918",
+            "publishedAt": "2022-01-18T01:30:00Z",
+            "content": "26  \r\n2021 CEO 9873 26 300 8235 1200  \r\n 2011 8 CEO  \r\n 2020 571%2020 1476 9259 28% 300 1073.1 103.82  \r\n 2021 2020 100 1.25 348 \r\n 2019 9 29 2018 300 1200 10 1.21  \r\n CEO 2021 4990 2021 250 3300 142… [+404 chars]"
+        }
+    ]
+}
