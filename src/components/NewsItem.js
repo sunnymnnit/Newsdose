@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import PropTypes from 'prop-types'
-import { getByTitle } from '@testing-library/react'
+// import PropTypes from 'prop-types'
+// import { getByTitle } from '@testing-library/react'
 
 export class NewsItem extends Component {
 
