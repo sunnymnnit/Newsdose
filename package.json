@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://sunnymnnit.github.io/Newsdose"
   "eslintConfig": {
     "extends": [
       "react-app",
