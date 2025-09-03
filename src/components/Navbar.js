@@ -1,5 +1,6 @@
 // import { render } from '@testing-library/react'
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import {ReactComponent as Logo} from '../newsdose.svg';
 // import {Link} from "react-router-dom"
 export class Navbar extends Component
 {
@@ -9,7 +10,7 @@ export class Navbar extends Component
         <div>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
 <div class="container-fluid">
-  <a class="navbar-brand" href="/">Newsdose</a>
+  <a class="navbar-brand" href="/"><Logo height="40" width="200"/></a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -40,7 +41,13 @@ export class Navbar extends Component
         <a class="nav-link" href="/technology">Technology</a>
       </li>
     </ul>
-  </div>
+    <div className="ms-auto d-flex align-items-center">
+  <a href="/Career" className="nav-link me-3">Career</a>
+  <a href="/Help" className="nav-link me-3">Help</a>
+  <a href="/AboutUs" className="nav-link me-3">About Us</a>
+  <a href="/login" className="btn btn-primary">Login</a>
+</div>
+      </div>
 </div>
 </nav>
         </div>

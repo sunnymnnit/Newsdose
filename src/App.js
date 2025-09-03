@@ -2,6 +2,7 @@
 import React, { Component } from 'react'
 import News from './components/News'
 import Navbar from './components/Navbar';
+import './App.css';
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 export default class App extends Component {
   render() {
@@ -9,6 +10,7 @@ export default class App extends Component {
       <Router>
         <Navbar/>
         <Routes>
+        <Route path='/' element={<News  key="general" pageSize={5} country="in" category="general"/>} />
         <Route path='/Newsdose' element={<News  key="general" pageSize={5} country="in" category="general"/>} />
         <Route path='/business' element={<News key="business" pageSize={5} country="in" category="business"/>} />
         <Route path='/sports' element={<News key="business" pageSize={5} country="in" category="sports"/>} />
