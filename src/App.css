@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.card-img-top{
+  height: 12rem;
+  object-fit: cover;
+}
+.card{
+  height: 30rem;
+
+}
+.card-body{
+  height: 18rem;
+  overflow: hidden;
+}
+.card-title{
+  height: 5rem;
+  overflow: hidden;
+}
+.card-text{
+  height: 7.5rem;
+  overflow: hidden;
+}   
