@@ -21,7 +21,7 @@ export class News extends Component
         this.state={
             articles:[],
             page:1,
-            loading:false
+            loading:true
             //total result na define hote hue bhi jab humne usko set kiya wo define ho gaya
         }
     }
