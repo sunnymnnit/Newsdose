@@ -1,3 +1,15 @@
+**#Home page:**
+
+<img width="1882" height="966" alt="image" src="https://github.com/user-attachments/assets/f6f33389-4fb3-4bdf-a531-49a25162e155" />
+
+**Section wise news (technology):**
+
+<img width="1871" height="967" alt="image" src="https://github.com/user-attachments/assets/1f723785-0a24-4f4d-9108-06b2083b25f1" />
+
+**Responsiveness:**
+
+<img width="666" height="967" alt="image" src="https://github.com/user-attachments/assets/5155833c-c4bf-4ec2-b6fb-18a724d6c642" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
