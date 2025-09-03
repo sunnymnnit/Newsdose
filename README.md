@@ -1,5 +1,9 @@
 **#Home page**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5687d63-191c-4edc-8794-8ee2af121828" />
+<img width="1882" height="966" alt="image" src="https://github.com/user-attachments/assets/f6f33389-4fb3-4bdf-a531-49a25162e155" />
+
+**Section wise news (technology):**
+<img width="1871" height="967" alt="image" src="https://github.com/user-attachments/assets/1f723785-0a24-4f4d-9108-06b2083b25f1" />
+
 
 # Getting Started with Create React App
 
